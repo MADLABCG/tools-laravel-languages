@@ -1,5 +1,5 @@
 
-# Project Title
+# Language Packages
 
 Laravel Language Packages
 
